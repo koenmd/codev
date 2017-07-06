@@ -11,7 +11,7 @@ msgstr ""
 ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-03 21:50+0200\n"
-"PO-Revision-Date: 2017-07-04 08:02:00+0000\n"
+"PO-Revision-Date: 2017-07-06 09:07:15+0000\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1416,9 +1416,8 @@ msgid "Timetrack Durations"
 msgstr ""
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Costs management"
-msgstr "프로젝트 관리"
+msgstr "비용 관리"
 
 #. tpl/edit_team.html
 msgid "OnDuty tasks"
@@ -5708,7 +5707,7 @@ msgstr ""
 #. 'arrivalDate' = should not be defined here, as another ajax call is doing the $schedulerManager->execute()
 #: scheduler/scheduler_ajax.php:389
 msgid "Issue not found in MantisDB !"
-msgstr ""
+msgstr "MantisDB에 이슈가 없습니다 !"
 
 #: scheduler/scheduler_ajax.php:513
 msgid "Options saved successfully"

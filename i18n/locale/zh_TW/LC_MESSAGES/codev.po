@@ -10,7 +10,7 @@ msgstr ""
 ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-03 21:50+0200\n"
-"PO-Revision-Date: 2017-07-04 08:02:06+0000\n"
+"PO-Revision-Date: 2017-07-06 09:07:20+0000\n"
 "Language: zh_tw\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1104,7 +1104,7 @@ msgstr "邊際任務"
 #. plugins/CostsIndicator/CostsIndicator.html
 #: plugins/CostsIndicator/CostsIndicator.class.php:303
 msgid "Provisions"
-msgstr "規範"
+msgstr "供應"
 
 #. tpl/servicecontract_info.html
 #. tpl/project_info.html
@@ -1298,7 +1298,7 @@ msgstr "平均每日費用"
 
 #. tpl/servicecontract_info.html
 msgid "No provision found."
-msgstr "找不到規範。"
+msgstr "找不到供應。"
 
 #. tpl/form/dateRangeSelector.html
 #. tpl/time_tracking.html
@@ -2934,7 +2934,7 @@ msgstr "首先；先創建任務。"
 
 #. tpl/command_edit.html
 msgid "Provisions successfully updated."
-msgstr "規範已成功更新。"
+msgstr "供應已成功更新。"
 
 #. tpl/command_edit.html
 msgid "CSV Import"
@@ -2946,7 +2946,7 @@ msgstr "匯入模板"
 
 #. tpl/command_edit.html
 msgid "Add Provision"
-msgstr "增加規範"
+msgstr "增加供應"
 
 #. tpl/command_edit.html
 msgid "add to budget check"
@@ -2954,7 +2954,7 @@ msgstr "添加至預算檢查"
 
 #. tpl/command_edit.html
 msgid "delete Provision"
-msgstr "刪除規範"
+msgstr "刪除供應"
 
 #. tpl/command_edit.html
 msgid "Add to 'check budget'"
@@ -2962,7 +2962,7 @@ msgstr "添加至「檢查預算」"
 
 #. tpl/command_edit.html
 msgid "Import provisions CSV"
-msgstr "匯入規範CSV檔"
+msgstr "匯入供應 CSV 檔"
 
 #. tpl/command_edit.html
 msgid "Delete Provision"
@@ -3402,7 +3402,7 @@ msgstr "開啟在Mantis的任務清單"
 
 #. tpl/command_info.html
 msgid "MgrEffortEstim + Checked Provisions (days)"
-msgstr "管理成效估計 + 已檢查規範（日）"
+msgstr "管理成效估計 + 已確認供應（日）"
 
 #. tpl/command_info.html
 msgid "Reestimated (days)"
@@ -3422,7 +3422,7 @@ msgstr "日"
 
 #. tpl/command_info.html
 msgid "The total charge (MgrEffortEstim + Provisions) should be equal to the 'Sold Charge'"
-msgstr "所有費用（管理成效估計 + 規範）應相同於「銷售費用」"
+msgstr "所有費用（管理成效估計 + 供應）應相同於「銷售費用」"
 
 #. tpl/command_info.html
 msgid "balance"
@@ -3434,7 +3434,7 @@ msgstr "預設平均每日費用"
 
 #. tpl/command_info.html
 msgid "Tasks & Provisions"
-msgstr "任務和規範"
+msgstr "任務和供應"
 
 #. tpl/command_info.html
 #. tpl/commandset_info.html
@@ -3444,7 +3444,7 @@ msgstr "無"
 #. tpl/command_info.html
 #. tpl/commandset_info.html
 msgid "Provision included in 'check budget'"
-msgstr "包含「檢查預算」的規範"
+msgstr "包含在「檢查預算」的供應"
 
 #. tpl/command_info.html
 #. tpl/commandset_info.html
@@ -3743,7 +3743,7 @@ msgstr "管理已流逝"
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.html
 msgid "Mngt Provisions"
-msgstr "管理規範"
+msgstr "管理供應"
 
 #. plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator_cfg.html
 msgid "Managemnt load history"
@@ -3975,7 +3975,7 @@ msgstr "預算調度歷史指示器"
 
 #. plugins/BudgetDriftHistoryIndicator2/BudgetDriftHistoryIndicator2.html
 msgid "Compares the budget (MgrEffortEstim + checked provisions) to the reestimated time (nb days needed to finish the tasks)."
-msgstr "比較預算（管理成效估計 + 已檢查規範）和重新估計時間（需要來完成任務的nb日）"
+msgstr "比較預算（管理成效估計 + 已確認供應）和重新估計時間（需要來完成任務的nb日）"
 
 #. plugins/BudgetDriftHistoryIndicator2/BudgetDriftHistoryIndicator2.html
 msgid "% Budget Drift"
@@ -3991,7 +3991,7 @@ msgstr "預算調度"
 
 #. plugins/BudgetDriftHistoryIndicator2/BudgetDriftHistoryIndicator2.html
 msgid "MgrEffortEstim + checked provisions"
-msgstr "管理成效估計 + 已檢查規範"
+msgstr "管理成效估計 + 已確認供應"
 
 #. plugins/BudgetDriftHistoryIndicator2/BudgetDriftHistoryIndicator2.html
 msgid "Budget Drift Progression Chart"
@@ -4244,20 +4244,19 @@ msgstr "若任務尚未分配給任何人；會使用平均每日成本。"
 
 #. plugins/CostsIndicator/CostsIndicator.html
 msgid "The backlog is computed with the current assigned user's UserDailyCost"
-msgstr ""
+msgstr "積壓工作是以目前用戶所分配的用戶每日成本來計算"
 
 #. plugins/CostsIndicator/CostsIndicator.html
 msgid "Respectively sum the MgrEffortEstim, EffortEstim, Reestimated, Elapsed, Backlog of each task."
-msgstr ""
+msgstr "分別加總各任務的管理成效估計、成效估計、重新估計、已流逝、積壓工作。"
 
 #. plugins/CostsIndicator/CostsIndicator.html
 msgid "The backlog depends on the status (always 0 if status >= Resolved)"
-msgstr ""
+msgstr "積壓工作取決於狀態（若狀態 >= 已解決則為 0）"
 
 #. plugins/CostsIndicator/CostsIndicator.html
-#, fuzzy
 msgid "Sum the Provisions that are 'checked' as included in the budget."
-msgstr "包含「檢查預算」的規範"
+msgstr "包含在預算的供應加總為「已確認」。"
 
 #. plugins/HelloWorldIndicator/HelloWorldIndicator_cfg.html
 #: plugins/HelloWorldIndicator/HelloWorldIndicator.class.php:62
@@ -5275,7 +5274,7 @@ msgstr "自動"
 
 #: management/command_edit_ajax.php:66
 msgid "Provisions updated FAILED !"
-msgstr "規範更新失敗！"
+msgstr "供應更新失敗！"
 
 #: management/command_edit_ajax.php:278
 #: plugins/ImportIssueCsv/ImportIssueCsv.class.php:204
@@ -5289,7 +5288,7 @@ msgstr "影響命令集的錯誤"
 
 #: management/servicecontract_tools.php:182
 msgid "Provision"
-msgstr "規範"
+msgstr "供應"
 
 #: reports/issue_info_tools.php:39
 msgid "No date defined"
@@ -5447,7 +5446,7 @@ msgstr "管理載入歷史"
 
 #: plugins/ManagementLoadHistoryIndicator/ManagementLoadHistoryIndicator.class.php:62
 msgid "Compares the elapsed time on management sideTasks to the management provisions"
-msgstr "比較管理邊際任務和管理規範的流逝時間"
+msgstr "比較管理邊際任務和管理供應的流逝時間"
 
 #: plugins/ImportIssueCsv/ImportIssueCsv.class.php:65
 msgid "Import a list of issues to MantisBT / CodevTT from a CSV file"

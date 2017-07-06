@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Codevtt 0.99.18\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-03 21:50+0200\n"
-"PO-Revision-Date: 2017-07-04 08:01:59+0000\n"
+"PO-Revision-Date: 2017-07-06 09:07:14+0000\n"
 "Last-Translator: NSV <nicolas_pro@velin.fr>\n"
 "Language-Team: French <kde-i18n-doc@kde.org>\n"
 "Language: fr_fr\n"
@@ -4263,7 +4263,7 @@ msgstr "Le retard dépend de l’état (toujours 0 si état >= Résolu)"
 
 #. plugins/CostsIndicator/CostsIndicator.html
 msgid "Sum the Provisions that are 'checked' as included in the budget."
-msgstr "Sommer les provisions qui sont 'vérifiées' comme inclues dans le budget."
+msgstr "Sommer les provisions qui sont 'vérifiées' comme incluses dans le budget."
 
 #. plugins/HelloWorldIndicator/HelloWorldIndicator_cfg.html
 #: plugins/HelloWorldIndicator/HelloWorldIndicator.class.php:62

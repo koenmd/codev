@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-03 21:50+0200\n"
-"PO-Revision-Date: 2017-07-04 08:01:58+0000\n"
+"PO-Revision-Date: 2017-07-06 09:07:13+0000\n"
 "Last-Translator: Vincent <vmerz@outlook.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de_de\n"
@@ -4237,9 +4237,8 @@ msgid "Team AverageDailyCost and UserDailyCosts must be defined in team settings
 msgstr "Durchschnittliche tägliche Teamkosten und tägliche Benutzerkosten müssen in den Teameinstellungen definiert sein."
 
 #. plugins/CostsIndicator/CostsIndicator.html
-#, fuzzy
 msgid "AverageDailyCost is used when no UserDailyCosts is defined for the timetrack's user."
-msgstr "Durchschnittliche tägliche Teamkosten und tägliche Benutzerkosten müssen in den Teameinstellungen definiert sein."
+msgstr "Die durchschnittlichen täglichen Kosten werden verwendet, falls keine täglichen Benutzerkosten für den Zeiterfassungsbenutzer definiert sind."
 
 #. plugins/CostsIndicator/CostsIndicator.html
 msgid "AverageDailyCost is used if the task is not yet assigned to anyone."
@@ -4251,16 +4250,15 @@ msgstr "Der Restaufwand wird mit den derzeit zugewiesenen täglichen Benutzerkos
 
 #. plugins/CostsIndicator/CostsIndicator.html
 msgid "Respectively sum the MgrEffortEstim, EffortEstim, Reestimated, Elapsed, Backlog of each task."
-msgstr "Beziehungsweise summiert den Aufwandsschätzungsmanager, die Aufwandsschätzung, Neugeschätzt, Verstrichen und den Restaufwand jeder Aufgabe."
+msgstr "Beziehungsweise summiert den Aufwandsschätzungsmanager, die Aufwandsschätzung, Neu geschätzt, Verstrichen und den Restaufwand jeder Aufgabe."
 
 #. plugins/CostsIndicator/CostsIndicator.html
 msgid "The backlog depends on the status (always 0 if status >= Resolved)"
 msgstr "Der Restaufwand hängt vom Status ab (immer 0 falls Status >= Erledigt)"
 
 #. plugins/CostsIndicator/CostsIndicator.html
-#, fuzzy
 msgid "Sum the Provisions that are 'checked' as included in the budget."
-msgstr "Budget beinhaltet Provisionen"
+msgstr "Summiert die Provisionen, die „überprüft“ sind als im Budget inbegriffen."
 
 #. plugins/HelloWorldIndicator/HelloWorldIndicator_cfg.html
 #: plugins/HelloWorldIndicator/HelloWorldIndicator.class.php:62
@@ -5156,7 +5154,7 @@ msgstr "Info: Dieser Schritt ist optional"
 
 #: install/install_step4.php:76
 msgid "Install addon:"
-msgstr "Installations-Addon:"
+msgstr "Addon installieren:"
 
 #: install/install_step4.php:77
 msgid "Load script:"
@@ -5686,7 +5684,7 @@ msgstr "Die Zuweisungen für die Aufgabe wurden aktualisiert"
 #. 'arrivalDate' = should not be defined here, as another ajax call is doing the $schedulerManager->execute()
 #: scheduler/scheduler_ajax.php:389
 msgid "Issue not found in MantisDB !"
-msgstr "Eintrag in der Mantis-Datenbank nicht gefunden!"
+msgstr "Der Eintrag wurde in der Mantis-Datenbank nicht gefunden!"
 
 #: scheduler/scheduler_ajax.php:513
 msgid "Options saved successfully"
