@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Codevtt 0.99.18\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-03 21:50+0200\n"
-"PO-Revision-Date: 2017-07-06 09:07:14+0000\n"
+"PO-Revision-Date: 2017-07-10 06:24:13+0000\n"
 "Last-Translator: NSV <nicolas_pro@velin.fr>\n"
 "Language-Team: French <kde-i18n-doc@kde.org>\n"
 "Language: fr_fr\n"
@@ -4247,7 +4247,7 @@ msgstr "AverageDailyCost est utilisé quand aucun UserDailyCost n’est défini 
 
 #. plugins/CostsIndicator/CostsIndicator.html
 msgid "AverageDailyCost is used if the task is not yet assigned to anyone."
-msgstr "AverageDailyCost est utilisé su la tâche n’est encore assignée à personne."
+msgstr "AverageDailyCost est utilisé si la tâche est encore assignée à personne."
 
 #. plugins/CostsIndicator/CostsIndicator.html
 msgid "The backlog is computed with the current assigned user's UserDailyCost"

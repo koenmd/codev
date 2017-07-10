@@ -8,7 +8,7 @@ msgstr ""
 ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-03 21:50+0200\n"
-"PO-Revision-Date: 2017-07-06 09:07:19+0000\n"
+"PO-Revision-Date: 2017-07-10 06:24:19+0000\n"
 "Language: zh_cn\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -4238,9 +4238,8 @@ msgid "AverageDailyCost is used when no UserDailyCosts is defined for the timetr
 msgstr ""
 
 #. plugins/CostsIndicator/CostsIndicator.html
-#, fuzzy
 msgid "AverageDailyCost is used if the task is not yet assigned to anyone."
-msgstr "任务未分配给任何人。"
+msgstr "在任务未分配给任何人时，平均日常费用会使用。"
 
 #. plugins/CostsIndicator/CostsIndicator.html
 msgid "The backlog is computed with the current assigned user's UserDailyCost"
