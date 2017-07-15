@@ -12,7 +12,7 @@ msgstr ""
 ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-03 21:50+0200\n"
-"PO-Revision-Date: 2017-07-04 08:01:57+0000\n"
+"PO-Revision-Date: 2017-07-15 14:51:55+0000\n"
 "Language: ar\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -5232,9 +5232,8 @@ msgid "Note: This step is optional"
 msgstr "ملاحظة: هذه الخطوة اختيارية"
 
 #: install/install_step4.php:76
-#, fuzzy
 msgid "Install addon:"
-msgstr "تنصيب"
+msgstr "تثبيت الملحق:"
 
 #: install/install_step4.php:77
 msgid "Load script:"

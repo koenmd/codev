@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-03 21:50+0200\n"
-"PO-Revision-Date: 2017-07-04 08:02:04+0000\n"
+"PO-Revision-Date: 2017-07-15 14:52:03+0000\n"
 "Last-Translator: Franklin Haut <franklin.haut@gmail.com>\n"
 "Language-Team: French <kde-i18n-doc@kde.org>\n"
 "Language: pt_br\n"
@@ -1433,9 +1433,8 @@ msgid "Timetrack Durations"
 msgstr "Atividades"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Costs management"
-msgstr "Gerenciamento de Projetos"
+msgstr "Gerenciamento de custos"
 
 #. tpl/edit_team.html
 #, fuzzy
@@ -2590,9 +2589,8 @@ msgid "Ext.ID"
 msgstr "Ref.Ext"
 
 #. tpl/time_tracking.html
-#, fuzzy
 msgid "Timetrack note"
-msgstr "Atividades"
+msgstr "Nota Timetrack"
 
 #. tpl/time_tracking.html
 #, fuzzy
@@ -4394,9 +4392,8 @@ msgid "AverageDailyCost is used when no UserDailyCosts is defined for the timetr
 msgstr ""
 
 #. plugins/CostsIndicator/CostsIndicator.html
-#, fuzzy
 msgid "AverageDailyCost is used if the task is not yet assigned to anyone."
-msgstr "Os casos não estão atribuidos "
+msgstr "AverageDailyCost é usado se a tarefa ainda não tiver sido atribuída a ninguém."
 
 #. plugins/CostsIndicator/CostsIndicator.html
 msgid "The backlog is computed with the current assigned user's UserDailyCost"
@@ -5359,9 +5356,8 @@ msgid "Note: This step is optional"
 msgstr ""
 
 #: install/install_step4.php:76
-#, fuzzy
 msgid "Install addon:"
-msgstr "Instalação"
+msgstr "Instalar addon:"
 
 #: install/install_step4.php:77
 msgid "Load script:"
@@ -5913,9 +5909,8 @@ msgstr ""
 
 #. 'arrivalDate' = should not be defined here, as another ajax call is doing the $schedulerManager->execute()
 #: scheduler/scheduler_ajax.php:389
-#, fuzzy
 msgid "Issue not found in MantisDB !"
-msgstr "Erro: Caso não localizado na base de dados do mantis!"
+msgstr "Caso não localizado na base de dados do mantis!"
 
 #: scheduler/scheduler_ajax.php:513
 msgid "Options saved successfully"
