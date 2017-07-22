@@ -8,7 +8,7 @@ msgstr ""
 ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-03 21:50+0200\n"
-"PO-Revision-Date: 2017-07-10 06:24:19+0000\n"
+"PO-Revision-Date: 2017-07-22 11:05:23+0000\n"
 "Language: zh_cn\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -4254,9 +4254,8 @@ msgid "The backlog depends on the status (always 0 if status >= Resolved)"
 msgstr ""
 
 #. plugins/CostsIndicator/CostsIndicator.html
-#, fuzzy
 msgid "Sum the Provisions that are 'checked' as included in the budget."
-msgstr "包含在“检查预算”中的规定"
+msgstr "概括已包含在预算中“检查”的条款。"
 
 #. plugins/HelloWorldIndicator/HelloWorldIndicator_cfg.html
 #: plugins/HelloWorldIndicator/HelloWorldIndicator.class.php:62

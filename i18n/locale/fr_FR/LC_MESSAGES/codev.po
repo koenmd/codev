@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Codevtt 0.99.18\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-03 21:50+0200\n"
-"PO-Revision-Date: 2017-07-15 14:51:58+0000\n"
+"PO-Revision-Date: 2017-07-22 11:05:17+0000\n"
 "Last-Translator: NSV <nicolas_pro@velin.fr>\n"
 "Language-Team: French <kde-i18n-doc@kde.org>\n"
 "Language: fr_fr\n"
@@ -4239,7 +4239,7 @@ msgstr "Total des coûts de toutes les imputations."
 
 #. plugins/CostsIndicator/CostsIndicator.html
 msgid "Team AverageDailyCost and UserDailyCosts must be defined in team settings."
-msgstr "Le Coût journalier moyen de l’équipe ou les coûts journaliers individuels doivent être définis dans les paramètres de l’équipe"
+msgstr "Le coût journalier moyen de l’équipe, ou les coûts journaliers individuels, doivent être définis dans les paramètres de l’équipe."
 
 #. plugins/CostsIndicator/CostsIndicator.html
 msgid "AverageDailyCost is used when no UserDailyCosts is defined for the timetrack's user."
