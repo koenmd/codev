@@ -15,12 +15,12 @@ msgstr ""
 ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-03 21:50+0200\n"
-"PO-Revision-Date: 2017-07-04 08:02:04+0000\n"
+"PO-Revision-Date: 2017-07-31 12:55:11+0000\n"
 "Language: ru\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-POT-Import-Date: 2017-07-03 20:50:48+0000\n"
-"X-Generator: MediaWiki 1.30.0-alpha; Translate 2017-04-27\n"
+"X-Generator: MediaWiki 1.30.0-alpha; Translate 2017-07-25\n"
 "Plural-Forms: nplurals=3; plural=(n%10 == 1 && n%100 != 11) ? 0 : ( (n%10 >= 2 && n%10 <= 4 && (n%100 < 10 || n%100 >= 20)) ? 1 : 2 );\n"
 
 #. tpl/filters.html
@@ -3222,7 +3222,7 @@ msgstr ""
 
 #. tpl/uninstall.html
 msgid "Filename"
-msgstr ""
+msgstr "Имя файла"
 
 #. tpl/uninstall.html
 msgid "Dumping MantisDB to"
@@ -3634,7 +3634,7 @@ msgstr ""
 #. plugins/EffortEstimReliabilityIndicator2/EffortEstimReliabilityIndicator2_cfg.html
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks_cfg.html
 msgid "Title"
-msgstr ""
+msgstr "Название"
 
 #. plugins/BacklogPerUserIndicator/BacklogPerUserIndicator_cfg.html
 msgid "Task ID"
@@ -3650,7 +3650,7 @@ msgstr ""
 #. plugins/LoadPerProjCategoryIndicator/LoadPerProjCategoryIndicator_cfg.html
 #. plugins/LoadPerUserIndicator/LoadPerUserIndicator_cfg.html
 msgid "Date range"
-msgstr ""
+msgstr "Диапазон дат"
 
 #. plugins/LoadPerProjectIndicator/LoadPerProjectIndicator_cfg.html
 #. plugins/ReopenedRateIndicator2/ReopenedRateIndicator2_cfg.html
@@ -3851,15 +3851,15 @@ msgstr ""
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
 #. plugins/ImportUsers/ImportUsers.html
 msgid "Date format"
-msgstr ""
+msgstr "Формат даты"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
 msgid "Number format"
-msgstr ""
+msgstr "Формат числа"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
 msgid "Encoding"
-msgstr ""
+msgstr "Кодировка"
 
 #. plugins/ImportIssueCsv/ImportIssueCsv.html
 msgid "It is highly recommended to use <strong>UTF-8</strong> but ASCII and ISO-8859-1 (MS-Windows) are also suported."
@@ -4009,7 +4009,7 @@ msgstr ""
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
 msgid "Values"
-msgstr ""
+msgstr "Значения"
 
 #. plugins/AvailableWorkforceIndicator/AvailableWorkforceIndicator.html
 msgid "Available Workforce Options"
@@ -4074,15 +4074,15 @@ msgstr ""
 
 #. plugins/ImportUsers/ImportUsers_ajax.html
 msgid "First name"
-msgstr ""
+msgstr "Имя"
 
 #. plugins/ImportUsers/ImportUsers_ajax.html
 msgid "Username"
-msgstr ""
+msgstr "Имя пользователя"
 
 #. plugins/ImportUsers/ImportUsers_ajax.html
 msgid "Email"
-msgstr ""
+msgstr "Эл. почта"
 
 #. plugins/ImportUsers/ImportUsers_ajax.html
 #. plugins/ImportUsers/ImportUsers.html
@@ -4168,7 +4168,7 @@ msgstr ""
 
 #. plugins/ImportUsers/ImportUsers.html
 msgid "Colors"
-msgstr ""
+msgstr "Цвета"
 
 #. plugins/ImportUsers/ImportUsers.html
 msgid "username"
@@ -4367,11 +4367,11 @@ msgstr ""
 
 #. plugins/StatusHistoryIndicator2/StatusHistoryIndicator2_cfg.html
 msgid "Bugs only"
-msgstr ""
+msgstr "Только ошибки"
 
 #. plugins/StatusHistoryIndicator2/StatusHistoryIndicator2_cfg.html
 msgid "Tasks only"
-msgstr ""
+msgstr "Только задания"
 
 #. plugins/StatusHistoryIndicator2/StatusHistoryIndicator2_cfg.html
 msgid "Filter on External ID"
@@ -4413,7 +4413,7 @@ msgstr ""
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
 msgid "Dates"
-msgstr ""
+msgstr "Даты"
 
 #. plugins/MoveIssueTimetracks/MoveIssueTimetracks.html
 msgid "Start"
@@ -4591,7 +4591,7 @@ msgstr ""
 #: scheduler/scheduler_ajax.php:386 scheduler/scheduler_ajax.php:387
 #: scheduler/scheduler_ajax.php:390
 msgid "Error"
-msgstr ""
+msgstr "Ошибка"
 
 #: classes/consistency_check_fdj.class.php:85
 msgid "Backlog not specified: Backlog = Time(BI - Analysis)"
@@ -4896,7 +4896,7 @@ msgstr ""
 #: indicator_plugins/StatusHistoryIndicator/StatusHistoryIndicator.class.php:194
 #: plugins/StatusHistoryIndicator2/StatusHistoryIndicator2.class.php:331
 msgid "Y-m-d"
-msgstr ""
+msgstr "Г-м-д"
 
 #: indicator_plugins/BacklogVariationIndicator/BacklogVariationIndicator.class.php:286
 msgid "Average backlog"
@@ -5166,7 +5166,7 @@ msgstr ""
 
 #: install/install_step4.php:83
 msgid "Done !"
-msgstr ""
+msgstr "Готово!"
 
 #: install/install.php:25 install/install.php:129
 #: install/install_menu.inc.php:22
@@ -5231,7 +5231,7 @@ msgstr ""
 
 #: install/install_step1.php:228
 msgid "Port"
-msgstr ""
+msgstr "Порт"
 
 #: install/install_step1.php:235
 msgid "Proceed Step 1"
@@ -5239,19 +5239,19 @@ msgstr ""
 
 #: install/install_menu.inc.php:26
 msgid "Step 1"
-msgstr ""
+msgstr "Шаг 1"
 
 #: install/install_menu.inc.php:30
 msgid "Step 2"
-msgstr ""
+msgstr "Шаг 2"
 
 #: install/install_menu.inc.php:34
 msgid "Step 3"
-msgstr ""
+msgstr "Шаг 3"
 
 #: install/install_menu.inc.php:38
 msgid "Step 4"
-msgstr ""
+msgstr "Шаг 4"
 
 #: management/command_edit.php:239
 msgid "Add tasks to Command"
@@ -5405,7 +5405,7 @@ msgstr ""
 
 #: timetracking/holidays_report.php:137
 msgid "today"
-msgstr ""
+msgstr "сегодня"
 
 #. light grey
 #: timetracking/holidays_report.php:203

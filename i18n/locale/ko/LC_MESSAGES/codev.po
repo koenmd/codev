@@ -11,12 +11,12 @@ msgstr ""
 ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-03 21:50+0200\n"
-"PO-Revision-Date: 2017-07-22 11:05:19+0000\n"
+"PO-Revision-Date: 2017-07-31 12:55:07+0000\n"
 "Language: ko\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-POT-Import-Date: 2017-07-03 20:50:48+0000\n"
-"X-Generator: MediaWiki 1.30.0-alpha; Translate 2017-04-27\n"
+"X-Generator: MediaWiki 1.30.0-alpha; Translate 2017-07-25\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #. tpl/filters.html
@@ -1065,7 +1065,7 @@ msgstr ""
 #. tpl/command_edit.html
 #. tpl/commandset_info.html
 msgid "Sorry, only managers can access this page."
-msgstr ""
+msgstr "죄송합니다. 관리자만 이 문서에 접근할 수 있습니다."
 
 #. tpl/servicecontract_info.html
 #. tpl/command_info.html
