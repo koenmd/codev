@@ -8,13 +8,14 @@
 # Author: Igv
 # Author: Lemondoge
 # Author: Macofe
+# Author: Pacoexe
 # Author: Rubentl134
 msgid ""
 msgstr ""
 ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-03 21:50+0200\n"
-"PO-Revision-Date: 2017-07-31 12:55:06+0000\n"
+"PO-Revision-Date: 2017-08-03 07:22:09+0000\n"
 "Language: es_es\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -214,7 +215,7 @@ msgstr "Días de producción : total"
 
 #. tpl/productivity_report.html
 msgid "number of days billed"
-msgstr ""
+msgstr "número de días facturados"
 
 #. tpl/productivity_report.html
 #. tpl/forecasting_report.html
@@ -278,27 +279,27 @@ msgstr "Disponibilidad del sistema"
 
 #. tpl/productivity_report.html
 msgid "MgrEffortEstim Reliability Rate"
-msgstr ""
+msgstr "MgrEffortEstim índice de fiabilidad"
 
 #. tpl/productivity_report.html
 msgid "EffortEstim Reliability Rate"
-msgstr ""
+msgstr "EffortEstim índice de fiabilidad"
 
 #. tpl/productivity_report.html
 msgid "Workload Forecasting (holidays & externalTasks not included, developers only)"
-msgstr ""
+msgstr "Carga de trabajo prevista (días festivos y externalTask no incluidos, solo desarrolladores)"
 
 #. tpl/productivity_report.html
 msgid "Development workload (developers only)"
-msgstr ""
+msgstr "Carga de trabajo del desarrollo (solo desarrolladores)"
 
 #. tpl/productivity_report.html
 msgid "ProjProdDays"
-msgstr ""
+msgstr "ProjProdDays"
 
 #. tpl/productivity_report.html
 msgid "TotalProdDays"
-msgstr ""
+msgstr "TotalProdDays"
 
 #. tpl/productivity_report.html
 msgid "Platform Availability"
@@ -306,16 +307,16 @@ msgstr "Disponibilidad de la plataforma"
 
 #. tpl/productivity_report.html
 msgid "breakdownDays"
-msgstr ""
+msgstr "breakdownDays"
 
 #. tpl/productivity_report.html
 msgid "prodDays"
-msgstr ""
+msgstr "prodDays"
 
 #. tpl/productivity_report.html
 #. tpl/statistics.html
 msgid "EffortEstim Reliability"
-msgstr ""
+msgstr "EffortEstim fiabilidad"
 
 #. tpl/productivity_report.html
 #. tpl/statistics.html
@@ -330,7 +331,7 @@ msgstr "(solo en tareas resueltas)"
 #. tpl/productivity_report.html
 #. tpl/statistics.html
 msgid "rate = 1 : estimation was perfect.<br>rate &lt; 1 : underestimated<br>rate &gt; 1 : overestimated"
-msgstr ""
+msgstr "índice = 1 : la estimación fue perfecta.<br>índice &lt; 1 : subestimado<br>índice &GT; 1 : sobrestimado"
 
 #. tpl/productivity_report.html
 #. tpl/servicecontract_info.html
@@ -349,12 +350,12 @@ msgstr ""
 #: indicator_plugins/DetailedChargesIndicator/DetailedChargesIndicator.class.php:315
 #: reports/project_info.php:238 tools.php:1470
 msgid "EffortEstim"
-msgstr ""
+msgstr "EffortEstim"
 
 #. tpl/productivity_report.html
 #. tpl/statistics.html
 msgid "EffortAdd"
-msgstr ""
+msgstr "EffortAdd"
 
 #. tpl/productivity_report.html
 #. tpl/statistics.html
@@ -365,7 +366,7 @@ msgstr "transcurrido"
 
 #. tpl/productivity_report.html
 msgid "Tasks having no deadLine are not reported here"
-msgstr ""
+msgstr "Las tareas sin fecha limite no se reportan aquí"
 
 #. tpl/productivity_report.html
 #. tpl/project_activity_report.html
