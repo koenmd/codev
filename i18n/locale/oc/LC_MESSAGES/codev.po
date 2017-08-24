@@ -9,7 +9,7 @@ msgstr ""
 ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-03 21:50+0200\n"
-"PO-Revision-Date: 2017-07-31 12:55:09+0000\n"
+"PO-Revision-Date: 2017-08-24 07:22:38+0000\n"
 "Language: oc\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1414,9 +1414,8 @@ msgid "Timetrack Durations"
 msgstr "Duradas d'imputacions"
 
 #. tpl/edit_team.html
-#, fuzzy
 msgid "Costs management"
-msgstr "Gestion de projècte"
+msgstr "Gestion dels còstes"
 
 #. tpl/edit_team.html
 msgid "OnDuty tasks"
@@ -2460,15 +2459,15 @@ msgstr ""
 
 #. tpl/export_odt.html
 msgid "Reporters"
-msgstr ""
+msgstr "Emeteires"
 
 #. tpl/export_odt.html
 msgid "Handlers"
-msgstr ""
+msgstr "Assignat a"
 
 #. tpl/export_odt.html
 msgid "ODT Template"
-msgstr ""
+msgstr "Modèl ODT"
 
 #. tpl/export_odt.html
 #. tpl/create_team.html
@@ -2478,15 +2477,15 @@ msgstr "Categorias"
 #. tpl/export_odt.html
 #. tpl/command_edit.html
 msgid "errorThrown"
-msgstr ""
+msgstr "errorThrown"
 
 #. tpl/export_odt.html
 msgid "Reported by"
-msgstr ""
+msgstr "Raportat per"
 
 #. tpl/export_odt.html
 msgid "Download"
-msgstr ""
+msgstr "Telecargar"
 
 #. tpl/time_tracking.html
 #. tpl/team_dashboard.html
@@ -2495,7 +2494,7 @@ msgstr "ERROR"
 
 #. tpl/time_tracking.html
 msgid "Query FAILED"
-msgstr ""
+msgstr "FRACÀS de requèsta"
 
 #. tpl/time_tracking.html
 msgid "Reduce the tasks selection by setting some filters"
@@ -2529,24 +2528,23 @@ msgstr ""
 
 #. tpl/time_tracking.html
 msgid "Ext.ID"
-msgstr ""
+msgstr "Ref.Ext"
 
 #. tpl/time_tracking.html
-#, fuzzy
 msgid "Timetrack note"
-msgstr "Imputacions"
+msgstr "Nòta de fuèlh de temps"
 
 #. tpl/time_tracking.html
 msgid "Edit timetrack"
-msgstr ""
+msgstr "Mesa a jorn d'imputacion"
 
 #. tpl/time_tracking.html
 msgid "Future timetracks"
-msgstr ""
+msgstr "Imputacions futuras"
 
 #. tpl/time_tracking.html
 msgid "Delete track"
-msgstr ""
+msgstr "Suprimir l'imputacion"
 
 #. tpl/time_tracking.html
 #. tpl/plugin_manager.html
@@ -2556,7 +2554,7 @@ msgstr "Pacientatz..."
 
 #. tpl/template.html
 msgid "Disconnect"
-msgstr ""
+msgstr "Desconnectar"
 
 #. tpl/template.html
 msgid "Note: For a better user experience, use a standards compliant browser such as :"
@@ -2577,7 +2575,7 @@ msgstr "zoom arrièr"
 
 #. tpl/planning_report.html
 msgid "Planning Options"
-msgstr ""
+msgstr "Opcions del planning"
 
 #. tpl/planning_report.html
 #. tpl/modal/consistency_check.html
@@ -2645,7 +2643,7 @@ msgstr "Podètz ajudar a las traduccions : "
 
 #. tpl/doc.html
 msgid "statistics"
-msgstr ""
+msgstr "estatisticas"
 
 #. tpl/tools/wbsEditor.html
 msgid "WBS Root element cannot be renamed."
@@ -3240,7 +3238,7 @@ msgstr ""
 
 #. tpl/uninstall.html
 msgid "Failed"
-msgstr ""
+msgstr "Fracàs"
 
 #. tpl/uninstall.html
 msgid "Remove CodevTT customFields:"
@@ -3302,11 +3300,11 @@ msgstr ""
 
 #. tpl/edit_jobs.html
 msgid "Job Color"
-msgstr ""
+msgstr "Color del pòste"
 
 #. tpl/edit_jobs.html
 msgid "Missing fields :"
-msgstr ""
+msgstr "Camps mancants :"
 
 #. tpl/workflow.html
 msgid "Are you sure you want to change"
@@ -3314,15 +3312,15 @@ msgstr ""
 
 #. tpl/workflow.html
 msgid "settings ?"
-msgstr ""
+msgstr "paramètres ?"
 
 #. tpl/workflow.html
 msgid "Clonning"
-msgstr ""
+msgstr "Clonar"
 
 #. tpl/workflow.html
 msgid "into"
-msgstr ""
+msgstr "dins"
 
 #. tpl/workflow.html
 msgid "Clone project settings"
@@ -3334,7 +3332,7 @@ msgstr "Clonar de"
 
 #. tpl/workflow.html
 msgid "Clone To"
-msgstr ""
+msgstr "Clonar cap a"
 
 #. tpl/workflow.html
 msgid "Workflow transitions"
@@ -3342,7 +3340,7 @@ msgstr ""
 
 #. tpl/workflow.html
 msgid "Settings"
-msgstr ""
+msgstr "Opcions"
 
 #. tpl/workflow.html
 msgid "No workflow transitions defined, using default configuration."
@@ -5072,12 +5070,10 @@ msgid "Get Mantis customizations"
 msgstr "Recuperacion de la config Mantis"
 
 #: install/install_step2.php:109
-#, fuzzy
 msgid "Path to Mantis"
 msgstr "Repertòri de Mantis"
 
 #: install/install_step2.php:114
-#, fuzzy
 msgid "URL to Mantis"
 msgstr "URL cap a Mantis"
 
@@ -5153,9 +5149,8 @@ msgid "Note: This step is optional"
 msgstr ""
 
 #: install/install_step4.php:76
-#, fuzzy
 msgid "Install addon:"
-msgstr "Installar"
+msgstr "Installar lo complement :"
 
 #: install/install_step4.php:77
 msgid "Load script:"
@@ -5260,7 +5255,7 @@ msgstr ""
 
 #: management/command_edit.php:241
 msgid "Add selection"
-msgstr ""
+msgstr "Apondre una seleccion"
 
 #: management/command_edit.php:242
 msgid "Note: Tasks already assigned to a Command are not displayed."
@@ -5346,23 +5341,23 @@ msgstr ""
 
 #: reports/export_csv_tools.php:56
 msgid "Product Version"
-msgstr ""
+msgstr "Version del produit"
 
 #: reports/export_csv_tools.php:59
 msgid "Resolution"
-msgstr ""
+msgstr "Resolucion"
 
 #: reports/export_csv_tools.php:66 tools.php:1482
 msgid "Delivery Date"
-msgstr ""
+msgstr "Data de liurason"
 
 #: reports/export_csv_tools.php:67
 msgid "Delivery Sheet"
-msgstr ""
+msgstr "Ficha De Liurason"
 
 #: reports/export_csv_weekly.php:84 reports/export_csv_weekly.php:90
 msgid "Export Week"
-msgstr ""
+msgstr "Expòrt setmana"
 
 #: reports/export_csv_weekly.php:84
 msgid "Member Activity"
