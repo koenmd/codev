@@ -15,7 +15,7 @@ msgstr ""
 ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-03 21:50+0200\n"
-"PO-Revision-Date: 2017-08-21 05:34:03+0000\n"
+"PO-Revision-Date: 2017-08-31 05:51:06+0000\n"
 "Language: es_es\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -5361,11 +5361,11 @@ msgstr "No hay proyectos en este equipo"
 
 #: reports/issue_info_ajax.php:66
 msgid "Sorry, only managers can remove tasks from commands"
-msgstr "Disculpas, sólo los administradores pueden eliminar tareas de los comandos"
+msgstr "Únicamente los supervisores pueden quitar tareas de las órdenes"
 
 #: reports/issue_info_ajax.php:91 reports/issue_info_ajax.php:133
 msgid "Sorry, only managers can add tasks to commands"
-msgstr "Disculpas, sólo los administradores pueden añadir tareas a los comandos"
+msgstr "Únicamente los supervisores pueden añadir tareas a las órdenes"
 
 #: reports/issue_info_ajax.php:93 reports/issue_info_ajax.php:135
 #: reports/issue_info_ajax.php:166 reports/issue_info_ajax.php:215
