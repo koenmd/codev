@@ -15,7 +15,7 @@ msgstr ""
 ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-07-03 21:50+0200\n"
-"PO-Revision-Date: 2017-08-31 05:51:06+0000\n"
+"PO-Revision-Date: 2017-09-04 06:57:30+0000\n"
 "Language: es_es\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -366,7 +366,7 @@ msgstr "transcurrido"
 
 #. tpl/productivity_report.html
 msgid "Tasks having no deadLine are not reported here"
-msgstr "Las tareas sin fecha limite no se reportan aquí"
+msgstr "Las tareas sin {{Mantis:Codev-fbace7-DeadLine/es}} no aparecen aquí"
 
 #. tpl/productivity_report.html
 #. tpl/project_activity_report.html
@@ -404,7 +404,7 @@ msgstr "Fecha de entrega"
 #. tpl/productivity_report.html
 #: reports/export_csv_tools.php:55
 msgid "DeadLine"
-msgstr ""
+msgstr "FechaLímite"
 
 #. tpl/productivity_report.html
 msgid "Tasks delivered on time"
